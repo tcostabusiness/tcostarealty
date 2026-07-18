@@ -1,0 +1,10 @@
+EXP REALTY BRANDING
+
+The website includes the text disclosure “Brokered by eXp Realty.”
+
+To display the eXp logo:
+1. Download an approved current logo from the eXp Canva Brand Kit.
+2. Save the transparent PNG as assets/exp-realty-logo.png.
+3. Have the final use reviewed according to your brokerage's advertising process.
+
+An unofficial or recreated eXp logo has intentionally not been included.
