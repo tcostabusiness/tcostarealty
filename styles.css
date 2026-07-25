@@ -151,3 +151,16 @@ footer a{text-decoration:none}
   footer{grid-template-columns:1fr}
   .legal{grid-column:1}
 }
+.broker-header{
+  display:flex;
+  align-items:center;
+  gap:.5rem;
+  font-size:.65rem;
+  text-transform:uppercase;
+  letter-spacing:.15em;
+  color:#666;
+}
+.broker-header img{
+  height:24px;
+  width:auto;
+}
