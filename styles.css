@@ -152,15 +152,18 @@ footer a{text-decoration:none}
   .legal{grid-column:1}
 }
 .broker-header{
-  display:flex;
-  align-items:center;
-  gap:.5rem;
-  font-size:.65rem;
-  text-transform:uppercase;
-  letter-spacing:.15em;
-  color:#666;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:.45rem;
+    flex:1;
+    font-size:.65rem;
+    text-transform:uppercase;
+    letter-spacing:.15em;
+    color:#666;
 }
+
 .broker-header img{
-  height:24px;
-  width:auto;
+    height:22px;
+    width:auto;
 }
