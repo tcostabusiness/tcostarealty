@@ -213,3 +213,50 @@ footer a{text-decoration:none}
     gap:1.5rem;
   }
 }
+@media (max-width: 640px){
+
+  .site-header{
+    padding-left:16px;
+    padding-right:16px;
+    gap:10px;
+  }
+
+  .brand{
+    flex:1;
+    min-width:0;
+  }
+
+  .broker-header{
+    flex:0 0 auto;
+    margin:0;
+    padding:0;
+    gap:0;
+  }
+
+  .broker-header span{
+    display:none;
+  }
+
+  .broker-header img{
+    width:58px;
+    height:auto;
+    max-height:28px;
+  }
+
+  .menu-toggle{
+    flex:0 0 auto;
+    padding:10px 12px;
+    font-size:14px;
+  }
+
+  .brand-name{
+    font-size:1.35rem;
+    white-space:nowrap;
+  }
+
+  .brand-sub{
+    font-size:.48rem;
+    letter-spacing:.13em;
+    white-space:nowrap;
+  }
+}
